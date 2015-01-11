@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>xkcd.com
+</title>
+<link>http://xkcd.com/
+</link>
+<description>xkcd.com: A webcomic of romance and math humor.
+</description>
+<language>en
+</language>
+<item>
+<title>Gut Fauna
+</title>
+<link>http://xkcd.com/1471/
+</link>
+<description>&lt;img src="http://imgs.xkcd.com/comics/gut_fauna.png" title="I know it seems unpleasant, but of the two ways we typically transfer them, I promise this is the one you want." alt="I know it seems unpleasant, but of the two ways we typically transfer them, I promise this is the one you want." /&gt;
+</description>
+<pubDate>Fri, 09 Jan 2015 05:00:00 -0000
+</pubDate>
+<guid>http://xkcd.com/1471/
+</guid>
+</item>
+<item>
+<title>Kix
+</title>
+<link>http://xkcd.com/1470/
+</link>
+<description>&lt;img src="http://imgs.xkcd.com/comics/kix.png" title="My parents sent me to several years of intensive Kix test prep." alt="My parents sent me to several years of intensive Kix test prep." /&gt;
+</description>
+<pubDate>Wed, 07 Jan 2015 05:00:00 -0000
+</pubDate>
+<guid>http://xkcd.com/1470/
+</guid>
+</item>
+<item>
+<title>UV
+</title>
+<link>http://xkcd.com/1469/
+</link>
+<description>&lt;img src="http://imgs.xkcd.com/comics/uv.png" title="Hey, why stop at our house? We could burn down ALL these houses for the insurance money." alt="Hey, why stop at our house? We could burn down ALL these houses for the insurance money." /&gt;
+</description>
+<pubDate>Mon, 05 Jan 2015 05:00:00 -0000
+</pubDate>
+<guid>http://xkcd.com/1469/
+</guid>
+</item>
+<item>
+<title>Worrying
+</title>
+<link>http://xkcd.com/1468/
+</link>
+<description>&lt;img src="http://imgs.xkcd.com/comics/worrying.png" title="If the breaking news is about an event at a hospital or a lab, move it all the way over to the right." alt="If the breaking news is about an event at a hospital or a lab, move it all the way over to the right." /&gt;
+</description>
+<pubDate>Fri, 02 Jan 2015 05:00:00 -0000
+</pubDate>
+<guid>http://xkcd.com/1468/
+</guid>
+</item>
+</channel>
+
+<channel>
+<title>
+Echo JS
+</title>
+<link>
+http://www.echojs.com
+</link>
+<description>Description pending
+</description>
+<item>
+<title>
+JSS - The important parts
+</title>
+<guid>https://medium.com/@oleg008/the-important-parts-131dda7f6f6f
+</guid>
+<link>
+https://medium.com/@oleg008/the-important-parts-131dda7f6f6f
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13006">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13006
+</comments>
+</item>
+<item>
+<title>
+Quiver.js - Middleware-based Component Framework
+</title>
+<guid>https://github.com/quiverjs/quiverjs
+</guid>
+<link>
+https://github.com/quiverjs/quiverjs
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13005">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13005
+</comments>
+</item>
+<item>
+<title>
+In-browser Redis
+</title>
+<guid>http://narma.github.io/2015/redis-in-browser/
+</guid>
+<link>
+http://narma.github.io/2015/redis-in-browser/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13004">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13004
+</comments>
+</item>
+<item>
+<title>
+That Whole Thing With Sound in In-Browser Emulation
+</title>
+<guid>http://ascii.textfiles.com/archives/4501
+</guid>
+<link>
+http://ascii.textfiles.com/archives/4501
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13003">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13003
+</comments>
+</item>
+<item>
+<title>
+WebGL Water simulation
+</title>
+<guid>http://www.madebyevan.com/webgl-water/
+</guid>
+<link>
+http://www.madebyevan.com/webgl-water/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13002">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13002
+</comments>
+</item>
+<item>
+<title>
+Life with Dynamic Typing
+</title>
+<guid>http://swannodette.github.io/2015/01/09/life-with-dynamic-typing/
+</guid>
+<link>
+http://swannodette.github.io/2015/01/09/life-with-dynamic-typing/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13001">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13001
+</comments>
+</item>
+<item>
+<title>
+HTML5 notification API
+</title>
+<guid>http://www.sevensignature.com/blog/articles/html5-web-notification-api/
+</guid>
+<link>
+http://www.sevensignature.com/blog/articles/html5-web-notification-api/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/13000">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/13000
+</comments>
+</item>
+<item>
+<title>
+Check if a JPEG image is progressive
+</title>
+<guid>https://github.com/sindresorhus/is-progressive
+</guid>
+<link>
+https://github.com/sindresorhus/is-progressive
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12999">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12999
+</comments>
+</item>
+<item>
+<title>
+Is JavaScript getting worse?
+</title>
+<guid>http://buzzdecafe.github.io/code/2015/01/08/is-javascript-getting-worse/
+</guid>
+<link>
+http://buzzdecafe.github.io/code/2015/01/08/is-javascript-getting-worse/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12998">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12998
+</comments>
+</item>
+<item>
+<title>
+Inside Ember.js FastBoot: Faking the DOM in Node
+</title>
+<guid>http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html
+</guid>
+<link>
+http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12997">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12997
+</comments>
+</item>
+<item>
+<title>
+Glob oriented file system operations, extending fs package
+</title>
+<guid>https://www.npmjs.com/package/globfs
+</guid>
+<link>
+https://www.npmjs.com/package/globfs
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12996">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12996
+</comments>
+</item>
+<item>
+<title>
+Most Common Technical Interview Question for FrontEnd Developers
+</title>
+<guid>http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/
+</guid>
+<link>
+http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12995">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12995
+</comments>
+</item>
+<item>
+<title>
+Taming Asynchronous JavaScript with Async.js
+</title>
+<guid>https://blog.engineyard.com/2015/taming-asynchronous-javascript-with-async/
+</guid>
+<link>
+https://blog.engineyard.com/2015/taming-asynchronous-javascript-with-async/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12994">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12994
+</comments>
+</item>
+<item>
+<title>
+You Don't Need jQuery! (Events)
+</title>
+<guid>http://blog.garstasio.com/you-dont-need-jquery/events/
+</guid>
+<link>
+http://blog.garstasio.com/you-dont-need-jquery/events/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12993">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12993
+</comments>
+</item>
+<item>
+<title>
+overload-js: Function overloading inspired by Mongoose
+</title>
+<guid>https://github.com/JosephClay/overload-js
+</guid>
+<link>
+https://github.com/JosephClay/overload-js
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12992">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12992
+</comments>
+</item>
+<item>
+<title>
+Backend-less HTTP requests faker for Angular
+</title>
+<guid>https://github.com/enricolucia/angular-http-faker
+</guid>
+<link>
+https://github.com/enricolucia/angular-http-faker
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12991">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12991
+</comments>
+</item>
+<item>
+<title>
+RestOnNode - Restful framework for NodeJS
+</title>
+<guid>https://www.npmjs.com/package/restonnode
+</guid>
+<link>
+https://www.npmjs.com/package/restonnode
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12989">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12989
+</comments>
+</item>
+<item>
+<title>
+Cozy Light, Personal Server Made Easy (Micro PaaS based on Node.js and PouchDB)
+</title>
+<guid>http://cozy-labs.github.io/cozy-light/
+</guid>
+<link>
+http://cozy-labs.github.io/cozy-light/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12988">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12988
+</comments>
+</item>
+<item>
+<title>
+Taking React to the next level: Mixins, Gulp, and Browserify
+</title>
+<guid>http://pomax.github.io/#gh-weblog-1420592591221
+</guid>
+<link>
+http://pomax.github.io/#gh-weblog-1420592591221
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12987">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12987
+</comments>
+</item>
+<item>
+<title>
+Provide events on updated MySQL SELECT result sets
+</title>
+<guid>https://github.com/numtel/mysql-live-select
+</guid>
+<link>
+https://github.com/numtel/mysql-live-select
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12986">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12986
+</comments>
+</item>
+<item>
+<title>
+Modularity
+</title>
+<guid>http://jlongster.com/Modularity
+</guid>
+<link>
+http://jlongster.com/Modularity
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12985">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12985
+</comments>
+</item>
+<item>
+<title>
+Filter stack trace by npm package name
+</title>
+<guid>https://github.com/dtinth/hide-stack-frames-from
+</guid>
+<link>
+https://github.com/dtinth/hide-stack-frames-from
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12984">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12984
+</comments>
+</item>
+<item>
+<title>
+Morpheus - Isomorphic Web publishing platform
+</title>
+<guid>https://github.com/vesparny/morpheus
+</guid>
+<link>
+https://github.com/vesparny/morpheus
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12983">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12983
+</comments>
+</item>
+<item>
+<title>
+Report unused npm packages in Node.js projects
+</title>
+<guid>https://github.com/mirek/node-unused-deps
+</guid>
+<link>
+https://github.com/mirek/node-unused-deps
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12982">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12982
+</comments>
+</item>
+<item>
+<title>
+GhostRunner - JavaScript Task Server
+</title>
+<guid>https://github.com/gmarland/GhostRunner
+</guid>
+<link>
+https://github.com/gmarland/GhostRunner
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12981">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12981
+</comments>
+</item>
+<item>
+<title>
+NodeJS request library as HTTP API
+</title>
+<guid>https://github.com/FGRibreau/request-api
+</guid>
+<link>
+https://github.com/FGRibreau/request-api
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12980">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12980
+</comments>
+</item>
+<item>
+<title>
+Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node
+</title>
+<guid>https://reactjsnews.com/isomorphic-javascript-with-react-node/
+</guid>
+<link>
+https://reactjsnews.com/isomorphic-javascript-with-react-node/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12979">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12979
+</comments>
+</item>
+<item>
+<title>
+From AS3 to TypeScript
+</title>
+<guid>http://dailyjs.com/2015/01/08/as3-typescript/
+</guid>
+<link>
+http://dailyjs.com/2015/01/08/as3-typescript/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12978">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12978
+</comments>
+</item>
+<item>
+<title>
+AngularJS event delegation service
+</title>
+<guid>http://twofuckingdevelopers.com/2015/01/angularjs-event-delegation-service/
+</guid>
+<link>
+http://twofuckingdevelopers.com/2015/01/angularjs-event-delegation-service/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12977">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12977
+</comments>
+</item>
+<item>
+<title>
+Applying NASA coding standards to JavaScript
+</title>
+<guid>http://pixelscommander.com/en/javascript/nasa-coding-standarts-for-javascript-performance/
+</guid>
+<link>
+http://pixelscommander.com/en/javascript/nasa-coding-standarts-for-javascript-performance/
+</link>
+<description>
+<![CDATA[
+<a href="http://www.echojs.com/news/12976">Comments
+</a>]]>
+</description>
+<comments>http://www.echojs.com/news/12976
+</comments>
+</item>
+</channel>
+</rss>
